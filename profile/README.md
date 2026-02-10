@@ -1,11 +1,12 @@
+
+<div align="center">
+  <img src="./logo.png" alt="OpenVertex Logo" width="200"/>
+</div>
+
 # OpenVertex
 
 以开放协作驱动深度创新，连接数据、算法与工程，打造可复用、可扩展、可观测的现代技术栈。
 
-## Logo
-<div align="center">
-  <img src="./logo.png" alt="OpenVertex Logo" width="200"/>
-</div>
 
 ## 我们的使命
 - 让高质量的工程与研究更易获取、更易复用
