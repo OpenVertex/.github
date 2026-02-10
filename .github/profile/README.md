@@ -4,7 +4,7 @@
 
 ## Logo
 <div align="center">
-  <img src="./profile/logo.png" alt="OpenVertex Logo" width="200"/>
+  <img src="./logo.png" alt="OpenVertex Logo" width="200"/>
 </div>
 
 ## 我们的使命
